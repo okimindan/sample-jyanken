@@ -1,5 +1,8 @@
 .icon {
-    width: 199px;
-    height: 199px;
+    width: 200px;
+    height: 200px;
 }
 
+.alert {
+    color: brown;
+}
